@@ -1,7 +1,7 @@
 # Jamie's Epic Personalised Covid Data Dashboard
 
 ## Introduction
-GitHub link: https://github.com/J-Packman/ECM-1400-Covid-Dashboard-Assessment/tree/main/Final_Project_File
+GitHub link: https://github.com/J-Packman/Covid-Dashboard-Assessment/tree/main/Coursework
 
 The purpose of this project is to deliver a personalised covid data dashboard to present up-to-date 
 covid data and news for a local and national area (Exeter and england respectively by default).
