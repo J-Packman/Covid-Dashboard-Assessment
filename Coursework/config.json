@@ -1,0 +1,12 @@
+{
+  "location": "Exeter",
+  "nation": "England",
+  "location_type": "ltla",
+  "repeat_update_time_secs": 86400,
+  "image_name": "duck.jpg",
+
+  "news_api_base_url": "https://newsapi.org/v2/top-headlines?",
+  "news_api_key": "8e73baee0bfa481b9f52aaf687c3e878",
+  "news_api_country": "gb",
+  "covid_terms": "Covid COVID-19 coronavirus"
+}
